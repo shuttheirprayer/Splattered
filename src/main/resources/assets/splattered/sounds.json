@@ -1,0 +1,40 @@
+{
+  "gore.drip_heavy": {
+    "sounds": [
+      "splattered:gore/drip_00",
+      "splattered:gore/drip_01",
+      "splattered:gore/drip_02",
+      "splattered:gore/drip_03",
+      "splattered:gore/drip_04",
+      "splattered:gore/drip_05",
+      "splattered:gore/drip_06",
+      "splattered:gore/drip_07",
+      "splattered:gore/drip_08",
+      "splattered:gore/drip_09",
+      "splattered:gore/drip_10"
+    ]
+  },
+  "gore.drip_light": {
+    "sounds": [
+      "splattered:gore/drip_11",
+      "splattered:gore/drip_12",
+      "splattered:gore/drip_13",
+      "splattered:gore/drip_14",
+      "splattered:gore/drip_15",
+      "splattered:gore/drip_16",
+      "splattered:gore/drip_17",
+      "splattered:gore/drip_18",
+      "splattered:gore/drip_19",
+      "splattered:gore/drip_20",
+      "splattered:gore/drip_21",
+      "splattered:gore/drip_22",
+      "splattered:gore/drip_23",
+      "splattered:gore/drip_24",
+      "splattered:gore/drip_25",
+      "splattered:gore/drip_26",
+      "splattered:gore/drip_27",
+      "splattered:gore/drip_28",
+      "splattered:gore/drip_29"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:iron_golem",
+    "minecraft:snow_golem",
+    "minecraft:blaze",
+    "minecraft:vex",
+    "minecraft:allay",
+    "minecraft:armor_stand",
+    "minecraft:wither"
+  ]
+}
